@@ -1,0 +1,1 @@
+This is my personal project where I apply what I learn from tutorials
